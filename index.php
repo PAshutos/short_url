@@ -7,7 +7,7 @@ if(isset($_GET['l'])){
     $count = mysqli_num_rows($res);
     echo $count;
 
-
+// Hii swapnil here
 
 }
 
